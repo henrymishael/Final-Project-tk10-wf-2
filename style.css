@@ -37,10 +37,10 @@ header {
   right: 0;
   top: 0;
   background: white;
-  z-index: 999;
   padding: 1.5rem 2rem;
   box-shadow: 0px 0px 10px 0px rgba(201, 199, 199, 0.19);
   margin: 0 auto;
+  z-index: 999;
 }
 
 header>img {
@@ -92,6 +92,7 @@ a {
   flex-direction: column;
   gap: 6rem;
   padding: 1.5rem 3rem;
+  position: relative;
 }
 
 .Login {
@@ -702,7 +703,7 @@ li,
   font-family: 'Syne', sans-serif;
   padding-bottom: 50px;
   color: black;
-  margin-left: -16.6rem;
+  margin-left: -19.2rem;
   
 }
 
